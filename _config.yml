@@ -17,4 +17,4 @@ plugins:
   - jekyll-avatar
   - jekyll-mentions
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-merlot
