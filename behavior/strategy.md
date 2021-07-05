@@ -1,10 +1,10 @@
-Motivation
-===
+# Motivation
+
 
 High level algorithm (making hot beverage) et low level algorithm (specific for tea, hot chocolate)
 
-Dynamic
-=====
+# Dynamic
+
 
 ``` c++
 
