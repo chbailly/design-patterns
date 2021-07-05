@@ -1,6 +1,6 @@
 
 A la python
-===
+
 
 ```c++
 // return type and argument list
